@@ -51,7 +51,6 @@ export function MessageExperience({ onRestart }: { onRestart: () => void }) {
           </p>
         )}
       </div>
-      <p className="envelope-caption">No es la gran cosa, pero espero que te guste</p>
       <MessageProgress current={message.id} total={messages.length} />
     </motion.section>
   )

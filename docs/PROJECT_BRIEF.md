@@ -360,7 +360,7 @@ Textos visibles definitivos del bloque principal:
 - Frase aprobada: «No es la gran cosa, pero espero que te guste».
 - Botón: «Tengo algo para ti».
 
-Se retiraron el subtítulo introductorio anterior y la nota secundaria del botón. Se eliminaron sus estilos sin uso y se compactaron los márgenes de la bienvenida, conservando el diseño responsive. La frase aprobada también continúa en la pantalla de sobres. Este ajuste no inicia el Prompt 4.
+Se retiraron el subtítulo introductorio anterior y la nota secundaria del botón. Se eliminaron sus estilos sin uso y se compactaron los márgenes de la bienvenida, conservando el diseño responsive. La frase aprobada se muestra exclusivamente en la bienvenida y desaparece al iniciar el recorrido. Al volver a empezar, vuelve a mostrarse con la bienvenida. Este ajuste no inicia el Prompt 4.
 
 Validación del ajuste: npm run typecheck, npm run lint, npm test (15 aprobadas) y npm run build finalizaron correctamente. Se revisó visualmente la bienvenida a 320 × 568 y 1440 × 900, con el título, la frase y el botón exactos, sin desbordamiento horizontal. Se compararon hashes de 13 archivos de contenido, sobres y audio: ninguno cambió.
 

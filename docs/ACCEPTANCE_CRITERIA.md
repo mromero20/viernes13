@@ -32,7 +32,7 @@ La fuente de verdad es [PROJECT_BRIEF.md](./PROJECT_BRIEF.md), especialmente sus
 
 | ID | Criterio | Cómo se aceptará | Estado |
 | --- | --- | --- | --- |
-| UX-01 | Bienvenida con título, frase aprobada y botón exactos. | Mostrar «13 mensajitos para ti ♡», «No es la gran cosa, pero espero que te guste» y «Tengo algo para ti»; cotejar con brief §4 y §19. | Verificado: textos exactos, revisión móvil/escritorio y cuatro validaciones aprobadas |
+| UX-01 | Bienvenida con título, frase aprobada y botón exactos. | Mostrar «13 mensajitos para ti ♡», «No es la gran cosa, pero espero que te guste» y «Tengo algo para ti»; La frase aparece únicamente en la bienvenida y desaparece al iniciar; cotejar con brief §4 y §19. | Verificado: textos exactos, revisión móvil/escritorio y cuatro validaciones aprobadas |
 | UX-02 | Inicio por interacción explícita. | Antes de pulsar no hay sobres ni música; al pulsar empieza el sobre 1 cerrado y se intenta audio solo si está configurado. | Verificado: el gesto inicia sobre 1 y solicita play directamente; sin autoplay previo |
 | UX-03 | Un único sobre cerrado al entrar a cada mensaje. | Recorrer toda la experiencia; nunca hay galería ni dos sobres visibles. En la retirada, desmontar el anterior antes de mostrar el siguiente. | Verificado: recorrido 1–13 en navegador; un sobre montado por vez |
 | UX-04 | Progreso claro y correcto. | Mostrar «Mensajito 1 de 13» al principio y actualizar de uno en uno hasta «Mensajito 13 de 13». | Verificado: 1–13 en orden en navegador |

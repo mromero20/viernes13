@@ -399,16 +399,6 @@ button:focus-visible {
   line-height: 1.6;
 }
 
-.envelope-caption {
-  max-width: 340px;
-  margin: 22px auto 0;
-  color: var(--color-plum);
-  font-family: var(--font-serif);
-  font-size: 17px;
-  font-style: italic;
-  line-height: 1.7;
-}
-
 .music-bar {
   max-width: 1200px;
   padding-inline: 24px;

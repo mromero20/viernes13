@@ -4,5 +4,5 @@ export const audioConfig: Readonly<{
   initialVolume: number
 }> = {
   src: '/audio/viernes-13.mp3',
-  initialVolume: 0.25,
+  initialVolume: 0.6,
 }

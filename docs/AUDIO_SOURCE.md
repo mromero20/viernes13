@@ -19,7 +19,7 @@ no se añade una licencia de distribución inventada ni se acredita una licencia
 de terceros que no haya sido aportada.
 
 El único elemento HTML5 Audio vive en App y se mantiene al pasar entre sobres,
-dedicatoria y bienvenida. Tiene preload="none", bucle y volumen inicial 0.25 si
+dedicatoria y bienvenida. Tiene preload="none", bucle y volumen inicial 0.6 (60 %) si
 el navegador permite ajustarlo. La fuente y play() se activan desde el evento
 real de «Tengo algo para ti», no al cargar la página.
 

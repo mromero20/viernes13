@@ -23,7 +23,7 @@ npm run preview
 
 El build genera dist/. La vista previa sirve ese resultado, normalmente en http://localhost:4173. Hay 20 pruebas: se conservan las 15 originales y se añaden regresiones de audio y metadatos.
 
-Bienvenida definitiva: «13 mensajitos para ti ♡», «No es la gran cosa, pero espero que te guste» y «Tengo algo para ti». Cada sobre se abre con mouse, tacto, Enter o Espacio. Recargar reinicia la sesión.
+Bienvenida definitiva: «13 mensajitos para ti ♡», «No es la gran cosa, pero espero que te guste» y «Tengo algo para ti». La frase se muestra solo en esta primera pantalla, no durante los sobres ni en la dedicatoria. Cada sobre se abre con mouse, tacto, Enter o Espacio. Recargar reinicia la sesión.
 
 ## Estructura
 
@@ -42,7 +42,7 @@ El usuario confirmó autorización del titular para publicar public/audio/vierne
 
 Para sustituirlo, usar un MP3 autorizado con ese nombre o ajustar src/config/audio.ts. Con src:null no se monta audio ni aparecen controles. Si play es bloqueado, se ofrece activación manual; si falla la carga, el recorrido continúa.
 
-La reproducción comienza por el gesto inicial, usa preload=none, bucle y volumen 0.25 si el navegador lo permite. Al reiniciar conserva el tiempo y la preferencia de pausa. Una recarga completa vuelve a comenzar sin autoplay.
+La reproducción comienza por el gesto inicial, usa preload=none, bucle y volumen inicial del 60 % (0.6) si el navegador lo permite. Al reiniciar conserva el tiempo y la preferencia de pausa. Una recarga completa vuelve a comenzar sin autoplay.
 
 ## WhatsApp y privacidad
 
