@@ -1,0 +1,840 @@
+{
+  "resolutions": [
+    {
+      "audioCount": 1,
+      "audioTime": 3.183956,
+      "documentWidth": 305,
+      "horizontalOverflow": false,
+      "letterFont": "18px",
+      "letterInside": false,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-1-closed",
+      "textAbovePocket": false,
+      "viewport": [
+        320,
+        568
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 3.271229,
+      "documentWidth": 360,
+      "horizontalOverflow": false,
+      "letterFont": "18px",
+      "letterInside": false,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-1-closed",
+      "textAbovePocket": false,
+      "viewport": [
+        375,
+        667
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 3.337057,
+      "documentWidth": 375,
+      "horizontalOverflow": false,
+      "letterFont": "18px",
+      "letterInside": false,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-1-closed",
+      "textAbovePocket": false,
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 3.398691,
+      "documentWidth": 415,
+      "horizontalOverflow": false,
+      "letterFont": "18px",
+      "letterInside": false,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-1-closed",
+      "textAbovePocket": false,
+      "viewport": [
+        430,
+        932
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 3.476101,
+      "documentWidth": 768,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": false,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-1-closed",
+      "textAbovePocket": false,
+      "viewport": [
+        768,
+        1024
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 3.548729,
+      "documentWidth": 1425,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": false,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-1-closed",
+      "textAbovePocket": false,
+      "viewport": [
+        1440,
+        900
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 62.963482,
+      "documentWidth": 305,
+      "horizontalOverflow": false,
+      "letterFont": "18px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-5-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        320,
+        568
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 63.024432,
+      "documentWidth": 360,
+      "horizontalOverflow": false,
+      "letterFont": "18px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-5-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        375,
+        667
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 63.101879,
+      "documentWidth": 375,
+      "horizontalOverflow": false,
+      "letterFont": "18px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-5-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 63.17327,
+      "documentWidth": 415,
+      "horizontalOverflow": false,
+      "letterFont": "18px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-5-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        430,
+        932
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 63.247075,
+      "documentWidth": 753,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-5-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        768,
+        1024
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 63.309418,
+      "documentWidth": 1425,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-5-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        1440,
+        900
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 64.546164,
+      "documentWidth": 305,
+      "horizontalOverflow": false,
+      "letterFont": "18px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-5-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        320,
+        568
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 3.819285,
+      "dedicationFits": true,
+      "dedicationParagraphs": 4,
+      "documentWidth": 305,
+      "horizontalOverflow": false,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "dedication",
+      "viewport": [
+        320,
+        568
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 3.885049,
+      "dedicationFits": true,
+      "dedicationParagraphs": 4,
+      "documentWidth": 360,
+      "horizontalOverflow": false,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "dedication",
+      "viewport": [
+        375,
+        667
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 3.92621,
+      "dedicationFits": true,
+      "dedicationParagraphs": 4,
+      "documentWidth": 375,
+      "horizontalOverflow": false,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "dedication",
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 3.997533,
+      "dedicationFits": true,
+      "dedicationParagraphs": 4,
+      "documentWidth": 415,
+      "horizontalOverflow": false,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "dedication",
+      "viewport": [
+        430,
+        932
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 4.052965,
+      "dedicationFits": true,
+      "dedicationParagraphs": 4,
+      "documentWidth": 768,
+      "horizontalOverflow": false,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "dedication",
+      "viewport": [
+        768,
+        1024
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 4.110973,
+      "dedicationFits": true,
+      "dedicationParagraphs": 4,
+      "documentWidth": 1425,
+      "horizontalOverflow": false,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "dedication",
+      "viewport": [
+        1440,
+        900
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 33.356871,
+      "caption": "No es la gran cosa, pero espero que te guste",
+      "documentWidth": 305,
+      "horizontalOverflow": false,
+      "musicOverlap": false,
+      "paused": true,
+      "scene": "welcome",
+      "viewport": [
+        320,
+        568
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 33.356871,
+      "caption": "No es la gran cosa, pero espero que te guste",
+      "documentWidth": 360,
+      "horizontalOverflow": false,
+      "musicOverlap": false,
+      "paused": true,
+      "scene": "welcome",
+      "viewport": [
+        375,
+        667
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 33.356871,
+      "caption": "No es la gran cosa, pero espero que te guste",
+      "documentWidth": 390,
+      "horizontalOverflow": false,
+      "musicOverlap": false,
+      "paused": true,
+      "scene": "welcome",
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 33.356871,
+      "caption": "No es la gran cosa, pero espero que te guste",
+      "documentWidth": 430,
+      "horizontalOverflow": false,
+      "musicOverlap": false,
+      "paused": true,
+      "scene": "welcome",
+      "viewport": [
+        430,
+        932
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 33.356871,
+      "caption": "No es la gran cosa, pero espero que te guste",
+      "documentWidth": 768,
+      "horizontalOverflow": false,
+      "musicOverlap": false,
+      "paused": true,
+      "scene": "welcome",
+      "viewport": [
+        768,
+        1024
+      ]
+    },
+    {
+      "audioCount": 1,
+      "audioTime": 33.356871,
+      "caption": "No es la gran cosa, pero espero que te guste",
+      "documentWidth": 1440,
+      "horizontalOverflow": false,
+      "musicOverlap": false,
+      "paused": true,
+      "scene": "welcome",
+      "viewport": [
+        1440,
+        900
+      ]
+    }
+  ],
+  "route": [
+    {
+      "message": 1,
+      "audioCount": 1,
+      "audioTime": 53.526597,
+      "documentWidth": 1425,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-1-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        1440,
+        900
+      ]
+    },
+    {
+      "message": 2,
+      "audioCount": 1,
+      "audioTime": 55.809011,
+      "documentWidth": 1425,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-2-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        1440,
+        900
+      ]
+    },
+    {
+      "message": 3,
+      "audioCount": 1,
+      "audioTime": 57.988878,
+      "documentWidth": 1425,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-3-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        1440,
+        900
+      ]
+    },
+    {
+      "message": 4,
+      "audioCount": 1,
+      "audioTime": 60.376528,
+      "documentWidth": 1425,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-4-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        1440,
+        900
+      ]
+    },
+    {
+      "message": 5,
+      "audioCount": 1,
+      "audioTime": 62.898417,
+      "documentWidth": 1425,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-5-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        1440,
+        900
+      ]
+    },
+    {
+      "message": 6,
+      "audioCount": 1,
+      "audioTime": 138.023937,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-6-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 7,
+      "audioCount": 1,
+      "audioTime": 140.568056,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-7-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 8,
+      "audioCount": 1,
+      "audioTime": 143.087177,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-8-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 9,
+      "audioCount": 1,
+      "audioTime": 145.625798,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-9-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 10,
+      "audioCount": 1,
+      "audioTime": 148.140917,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-10-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 11,
+      "audioCount": 1,
+      "audioTime": 150.678692,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-11-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 12,
+      "audioCount": 1,
+      "audioTime": 153.179715,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-12-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 13,
+      "audioCount": 1,
+      "audioTime": 155.703535,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "paused": false,
+      "scene": "message-13-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    }
+  ],
+  "pausedBeforeRestart": {
+    "audioCount": 1,
+    "paused": true,
+    "time": 33.356871
+  },
+  "restartedAudio": {
+    "audioCount": 1,
+    "focus": "Abrir mensajito 1 de 13",
+    "message": "1",
+    "paused": true,
+    "time": 33.356871
+  },
+  "loopObserved": {
+    "before": 155.703535,
+    "after": 5.250573,
+    "duration": 177.354014
+  },
+  "limitations": [
+    "El navegador no expone emulación de movimiento reducido.",
+    "Ctrl++ no cambió el zoom; zoom 200 % no verificado.",
+    "No se probaron dispositivos físicos ni lector de pantalla real."
+  ],
+  "musicControls": {
+    "resumedQa": {
+      "audioCount": 1,
+      "paused": false,
+      "time": 33.360264
+    },
+    "pausedQa": {
+      "audioCount": 1,
+      "paused": true,
+      "time": 33.360264
+    }
+  },
+  "silentKeyboardRoute": [
+    {
+      "message": 1,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-1-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 2,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-2-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 3,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-3-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 4,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-4-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 5,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-5-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 6,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-6-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 7,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-7-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 8,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-8-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 9,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-9-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 10,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-10-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 11,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-11-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 12,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-12-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    },
+    {
+      "message": 13,
+      "audioCount": 0,
+      "documentWidth": 899,
+      "horizontalOverflow": false,
+      "letterFont": "19px",
+      "letterInside": true,
+      "musicOverlap": false,
+      "scene": "message-13-revealed",
+      "textAbovePocket": true,
+      "viewport": [
+        914,
+        667
+      ]
+    }
+  ]
+}
